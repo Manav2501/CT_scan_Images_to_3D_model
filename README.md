@@ -8,7 +8,7 @@ Fig 8.1 Radiant Dicom Viewer Software
 
 For that I Used Radiant Dicom Viewer Software from which I could understand files and how it works. After that I knew that it’s a series of image capture in some distance. And every image contains single slice of scan part. 
 
-Therefore, I had to do some image processing to extract Bones from Images which contains specific pixel values in image.\
+Therefore, I had to do some image processing to extract Bones from Images which contains specific pixel values in image.
 
  ![img2](https://github.com/Manav2501/CT_scan_Images_to_3D_model/blob/main/ss5.PNG) \
 Fig 8.2 Histrogram of Images
