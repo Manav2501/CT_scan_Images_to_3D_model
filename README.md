@@ -1,4 +1,4 @@
-# CT_scan_Images_to_3D_model
+# Generation of 3D model from CT scan Images
 This folder contains Special Assignment project of course Embedded System Programming
 
 In this project taken CT scan file of patient and convert into 3D model in STL file format. For that use CT scan images which are in Dicom file format. First I had to understand Dicom File format. 
